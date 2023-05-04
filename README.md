@@ -1,6 +1,6 @@
 # Prueba-Patrones-Oscar
 
-Mi repositorio: 
+Mi repositorio: https://github.com/OscarLGP30/Prueba-Patrones-Oscar.git
 
 Ejercicio 1
 
