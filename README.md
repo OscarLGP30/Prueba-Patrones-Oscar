@@ -2,7 +2,7 @@
 
 Mi repositorio: https://github.com/OscarLGP30/Prueba-Patrones-Oscar.git
 
-Ejercicio 1
+Ejercicio 1 (Builder)
 
 El Servicio de Emergencias Sanitarias de Madrid, antes conocido como 112, está organizado en una jerarquía de bases. Algunas de estas bases realmente disponen de personal y ambulancias (por ejemplo la de Villanueva de la Cañada), mientras que otras son «unidades administrativas» que agrupan un conjunto de bases (por ejemplo Majadahonda, que agrupa la unidad del Hospital Clínico Universitario Puerta de Hierro y la de Alcobendas entre otras).
 
